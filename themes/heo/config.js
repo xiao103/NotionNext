@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享行业资讯',
-  HEO_HERO_TITLE_2: '与教学用品',
+  HEO_HERO_TITLE_1: '分享教学用品',
+  HEO_HERO_TITLE_2: '与行业资讯',
   HEO_HERO_TITLE_3: 'BLOG.X1AO.SHOP',
   HEO_HERO_TITLE_4: '新品上线',
   HEO_HERO_TITLE_5: '最新教学用品资讯分享',
@@ -51,7 +51,7 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/xiao1003',
+  HEO_INFO_CARD_URL2: 'https://github.com/xiao103',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://blog.x1ao.shop',
   HEO_INFO_CARD_TEXT3: '了解更多',

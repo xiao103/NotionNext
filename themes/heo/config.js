@@ -8,7 +8,6 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.x1ao.shop' },
     { title: '欢迎来到我的博客', url: 'https://blog.x1ao.shop'  }
   ],
 
@@ -38,15 +37,15 @@ const CONFIG = {
   //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
-  HEO_INFOCARD_GREETINGS: [
-    '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
-  ],
+  // HEO_INFOCARD_GREETINGS: [
+   // '你好！我是',
+    //'🔍 分享与热心帮助',
+    //'🤝 专修交互与设计',
+    //'🏃 脚踏实地行动派',
+    //'🏠 智能家居小能手',
+   // '🤖️ 数码科技爱好者',
+   // '🧱 团队小组发动机'
+ // ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
@@ -57,7 +56,7 @@ const CONFIG = {
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
-  HEO_GROUP_ICONS: [
+  // HEO_GROUP_ICONS: [
     {
       title_1: 'AfterEffect',
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
@@ -114,7 +113,7 @@ const CONFIG = {
       img_2: '/images/heo/20231ca53fa0b09a3ff1df89acd7515e9516173302.webp',
       color_2: '#1f1f1f'
     }
-  ],
+ ],
 
   HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
